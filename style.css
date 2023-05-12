@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* gives website min height */
+header, main{
+    min-height: 100vh;
+}
+
+header{
+    background-image: url("https://i.postimg.cc/k534zsHn/banner-pubg-mobile-20220725-162723.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.brandon{
+    height: 100px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 2rem;
+    padding-left: 1rem;
+    font-weight: bold;
+    font-family: roboto mono, raleway;
+}
